@@ -58,7 +58,7 @@ This command reads the `requirements.txt` file from the cloned repository and in
 After installing the dependencies, you're ready to run the project. Navigate to the project directory and use the appropriate command to start the analysis or application.
 
 > Run *crash_detect.py* to get the when the car is at risk of collision with objects. The ROI which is selected can be made more or less aggressive by choice.
-```
+
 
 ## Conclusion
 
